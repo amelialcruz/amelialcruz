@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amelialcruz" alt="amelialcruz" /></a> </p>
 
-- 👨‍💻 All of my graphics projects are available at [ameliacruz.myportfolio.com](ameliacruz.myportfolio.com)
+- 👨‍💻 All of my graphics projects are available at [https://ameliacruz.myportfolio.com](https://ameliacruz.myportfolio.com)
 
-- 📝 I will begin regularly writing articles on [ameliacruz.myportfolio.com/blog](ameliacruz.myportfolio.com/blog)
+- 📝 I will begin regularly writing articles on [https://ameliacruz.myportfolio.com/blog](https://ameliacruz.myportfolio.com/blog)
 
 - 💬 Ask me about **Python, C, HTML, CSS, Assembly.**
 
