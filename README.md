@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my graphics projects are available at [https://ameliacruz.myportfolio.com](https://ameliacruz.myportfolio.com)
 
-- 📝 I will begin regularly writing articles on [https://ameliacruz.myportfolio.com/blog](https://ameliacruz.myportfolio.com/blog)
-
-- 💬 Ask me about **Python, C, HTML, CSS, Assembly.**
+- 💬 Ask me about **Python, C, HTML, CSS, Deluge.**
 
 - 📫 How to reach me **amelialcruz01@gmail.com**
 
