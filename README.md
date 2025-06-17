@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amelialcruz" alt="amelialcruz" /></a> </p>
 
-- 👨‍💻 All of my graphics projects are available at [https://ameliacruz.myportfolio.com](https://ameliacruz.myportfolio.com)
-
 - 💬 Ask me about **Python, C, HTML, CSS, Deluge.**
 
 - 📫 How to reach me **amelialcruz01@gmail.com**
